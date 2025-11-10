@@ -1,6 +1,6 @@
-This script will install kde-plasma for Void Linux.
+This script will install kde-plasma for Void Linux
 
 How to use:
-git clone https://fragmentedsdk/kde-install-script
+git clone https://github.com/fragmentedsdk/kde-install-script.git
 cd kde-install-script
-sudo ./plasma-install.sh
+sudo ./plsma-install.sh
